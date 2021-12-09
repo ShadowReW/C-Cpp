@@ -1,2 +1,2 @@
-# C-Cpp
-This is where I post my C/C++ scripts
+# Web server installer on С for linux
+Web server installer on С for linux
